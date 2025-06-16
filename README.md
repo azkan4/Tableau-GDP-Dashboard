@@ -1,1 +1,3 @@
 # Tableau-GDP-Dashboard
+
+This project applies multiple view techniques and visual narratives to analyze the relationship between economic growth (GDP) and birth rates across various countries. The dashboard features key visual elements, including the "Country vs GDP" map, which illustrates GDP distribution using a color scale to highlight strong and emerging economies. Additionally, the "Birth Rate vs GDP" bar chart compares birth rates and GDP, helping to identify patterns between the two variables. This dashboard provides valuable insights for governments, academics, and economists to better understand social dynamics and support long-term economic planning based on population and economic growth data.
